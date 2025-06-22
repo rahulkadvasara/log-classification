@@ -31,7 +31,7 @@ This project implements a hybrid log classification system, combining three comp
    - Stores the saved models, including Sentence Transformer embeddings and the Logistic Regression model.
 
 3. **`resources/`**:
-   - This folder contains resource files such as test CSV files, output files, images, etc.
+   - This folder contains resource files such as test CSV files, output files etc.
 
 4. **Root Directory**:
    - Contains the FastAPI server code (`server.py`).
